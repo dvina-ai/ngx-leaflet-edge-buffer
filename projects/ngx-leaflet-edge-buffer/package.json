@@ -1,0 +1,20 @@
+{
+	"name": "@dvina/ngx-leaflet-edge-buffer",
+	"description": "Angular directives for the Leaflet Edge Buffer plugin",
+	"version": "16.0.0",
+	"author": "Kant Yazılım A.Ş.",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dvina-ai/ngx-leaflet-edge-buffer.git"
+	},
+	"peerDependencies": {
+		"@angular/common": "16",
+		"@angular/core": "16",
+		"leaflet": "1"
+	},
+	"dependencies": {
+		"leaflet-edgebuffer": "1.0.6",
+		"tslib": "^2.4.0"
+	}
+}
