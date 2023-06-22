@@ -8,7 +8,7 @@
 
 import { Directive } from '@angular/core';
 
-import 'projektpro-leaflet-smoothwheelzoom/Leaflet.SmoothWheelZoom.js';
+import 'leaflet-edgebuffer';
 
 @Directive({
 	selector: '[leafletEdgeBuffer]',
